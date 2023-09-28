@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_01DayOfWeek</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\abise\OneDrive\Desktop\Fundamentals September 2023\07ArraysLab\01DayOfWeek\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\abise\OneDrive\Desktop\Fundamentals September 2023\07ArraysLab\01DayOfWeek\.editorconfig" />
+  </ItemGroup>
+
+</Project>
