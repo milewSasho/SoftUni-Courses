@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01OddLines", "01OddLines\01OddLines.csproj", "{481B1435-4B9D-4BDF-8817-7ECB8F4A7100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02LineNumbers", "02LineNumbers\02LineNumbers.csproj", "{C2DBB355-A31A-43D2-8CB1-9C5B22F4061F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03WordCount", "03WordCount\03WordCount.csproj", "{D967E886-63A5-4901-AD6A-5AF4031495FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04MergeTextFiles", "04MergeTextFiles\04MergeTextFiles.csproj", "{BC7BCACD-F3B4-47E0-A461-F0A9B96432B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ExtractSpecialBytes", "05ExtractSpecialBytes\05ExtractSpecialBytes.csproj", "{DE78ED79-78F5-4062-9F31-AD540D6EC400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06SplitMergeBinaryFiles", "06SplitMergeBinaryFiles\06SplitMergeBinaryFiles.csproj", "{AC6B9C93-4D1A-4C27-8D71-0A4B7E2027DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07FolderSize", "07FolderSize\07FolderSize.csproj", "{54A70478-979C-4BCB-9301-4B2DD89702F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{481B1435-4B9D-4BDF-8817-7ECB8F4A7100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481B1435-4B9D-4BDF-8817-7ECB8F4A7100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481B1435-4B9D-4BDF-8817-7ECB8F4A7100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481B1435-4B9D-4BDF-8817-7ECB8F4A7100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2DBB355-A31A-43D2-8CB1-9C5B22F4061F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DBB355-A31A-43D2-8CB1-9C5B22F4061F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DBB355-A31A-43D2-8CB1-9C5B22F4061F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DBB355-A31A-43D2-8CB1-9C5B22F4061F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D967E886-63A5-4901-AD6A-5AF4031495FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D967E886-63A5-4901-AD6A-5AF4031495FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D967E886-63A5-4901-AD6A-5AF4031495FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D967E886-63A5-4901-AD6A-5AF4031495FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7BCACD-F3B4-47E0-A461-F0A9B96432B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7BCACD-F3B4-47E0-A461-F0A9B96432B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7BCACD-F3B4-47E0-A461-F0A9B96432B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7BCACD-F3B4-47E0-A461-F0A9B96432B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE78ED79-78F5-4062-9F31-AD540D6EC400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE78ED79-78F5-4062-9F31-AD540D6EC400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE78ED79-78F5-4062-9F31-AD540D6EC400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE78ED79-78F5-4062-9F31-AD540D6EC400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6B9C93-4D1A-4C27-8D71-0A4B7E2027DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6B9C93-4D1A-4C27-8D71-0A4B7E2027DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6B9C93-4D1A-4C27-8D71-0A4B7E2027DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6B9C93-4D1A-4C27-8D71-0A4B7E2027DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A70478-979C-4BCB-9301-4B2DD89702F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A70478-979C-4BCB-9301-4B2DD89702F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A70478-979C-4BCB-9301-4B2DD89702F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A70478-979C-4BCB-9301-4B2DD89702F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E36F7359-B045-4743-BDC3-F0B566FB1CCE}
+	EndGlobalSection
+EndGlobal
